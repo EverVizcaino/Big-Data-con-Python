@@ -9,3 +9,13 @@ Llevaremos paso a paso para crear una cuenta de AWS, crear una máquina virtual 
 
 En las primeras partes del curso trabajamos con Spark y su formato RDD (Resilient Distributed Datasets o Datos Distribuidos Resilientes). Luego trabajaremos con Spark SQL y sus DataFrames y acabaremos aprendiendo a implementar un algoritmos de regresión lineal en Spark ML.
 
+# Objetivos de aprendizaje
+● Sobre el Big Data y la computación paralela
+● A trabajar con Spark RDDs en pyspark
+● A trabajar con Spark SQL y sus DataFrames en pyspark
+● A trabajar con Spark MLlib en pyspark
+
+# ¿Hay requisitos para realizar el curso?
+Tener conocimientos básicos de programación en Python
+# ¿Para quién es este curso?
+Personas que se esten adentrando en el mundo del Big Data y quieran saber cómo trabajar con Spark y con Python
