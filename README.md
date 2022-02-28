@@ -11,8 +11,11 @@ En las primeras partes del curso trabajamos con Spark y su formato RDD (Resilien
 
 # Objetivos de aprendizaje
 ● Sobre el Big Data y la computación paralela
+
 ● A trabajar con Spark RDDs en pyspark
+
 ● A trabajar con Spark SQL y sus DataFrames en pyspark
+
 ● A trabajar con Spark MLlib en pyspark
 
 # ¿Hay requisitos para realizar el curso?
